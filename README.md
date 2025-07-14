@@ -2,8 +2,8 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQGZszfdpRWpmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710181071572?e=1758153600&v=beta&t=pQ7Pxg7Q2sJb1jUhxLJlaVwx3cUI9-iXTXL1CqYDB4E" alt="Sajid Hossain Khan" width="200" />
 </p>
 
-### Hi there 👋, my name is Sajid
-<h3 align="center">💻 Final-year CSE Student | Programmer | Developer | Tech Enthusiast</h3>
+<h3 align="center">Hi there 👋, my name is Sajid</h3>
+<h4 align="center">💻 Final-year CSE Student | Programmer | Developer | Tech Enthusiast</h4>
 
 
 I’m a final-year Computer Science & Engineering student at Notre Dame University Bangladesh with a strong passion for software development, problem-solving, and building real-world projects. I'm always exploring new technologies and sharpening my skills through competitive programming and hands-on experience.
