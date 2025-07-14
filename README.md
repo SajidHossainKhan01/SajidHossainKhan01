@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGZszfdpRWpmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710181071572?e=1758153600&v=beta&t=pQ7Pxg7Q2sJb1jUhxLJlaVwx3cUI9-iXTXL1CqYDB4E" alt="Sajid Hossain Khan" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQGZszfdpRWpmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710181071572?e=1758153600&v=beta&t=pQ7Pxg7Q2sJb1jUhxLJlaVwx3cUI9-iXTXL1CqYDB4E" alt="Sajid Hossain Khan" width="200" />
 </p>
 
 ### Hi there 👋, my name is Sajid
