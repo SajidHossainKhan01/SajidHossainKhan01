@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋, my name is Sajid
-#### 💻 Final-year CSE Student | Programmer | Developer | Tech Enthusiast
+<h3 align="center">💻 Final-year CSE Student | Programmer | Developer | Tech Enthusiast</h3>
 
 
 I’m a final-year Computer Science & Engineering student at Notre Dame University Bangladesh with a strong passion for software development, problem-solving, and building real-world projects. I'm always exploring new technologies and sharpening my skills through competitive programming and hands-on experience.
