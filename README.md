@@ -24,17 +24,17 @@ I’m a final-year Computer Science & Engineering student at Notre Dame Universi
 
 ### ☕ Connect with me!
 
-<p>
+<div>
   <a href="https://github.com/SajidHossainKhan01" target="_blank">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/github.png?raw=true" alt="GitHub" height="40"/>
+    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/github.png?raw=true" alt="GitHub" height="40" style="vertical-align:middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/" target="_blank">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/linkedin.png?raw=true" alt="LinkedIn" height="40"/>
+    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/linkedin.png?raw=true" alt="LinkedIn" height="40" style="vertical-align:middle;"/>
   </a>
   <a href="https://www.facebook.com/sajid.hossain.khan.2024" target="_blank">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/facebook.png?raw=true" alt="Facebook" height="40"/>
+    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/facebook.png?raw=true" alt="Facebook" height="40" style="vertical-align:middle;"/>
   </a>
   <a href="https://www.youtube.com/@SajidHossainKhan" target="_blank">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/youtube.png?raw=true" alt="YouTube" height="40"/>
+    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/youtube.png?raw=true" alt="YouTube" height="40" style="vertical-align:middle;"/>
   </a>
-</p>
+</div>
