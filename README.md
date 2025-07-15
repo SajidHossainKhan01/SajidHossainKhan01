@@ -22,8 +22,9 @@ I’m a final-year Computer Science & Engineering student at Notre Dame Universi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&langs_count=8&theme=radical)
 
 
-### ☕ Connect with me!
-<p align="center">
+**☕ Connect with me!**
+
+<p>
   <a href="https://github.com/SajidHossainKhan01">
     <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/github.png?raw=true" alt="GitHub" height="40"/>
   </a>
