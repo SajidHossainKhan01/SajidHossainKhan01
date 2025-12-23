@@ -17,7 +17,12 @@ I’m a final-year Computer Science & Engineering student at Notre Dame Universi
 ✅ **Platforms:** Linux, Blockchain, Machine Learning <br>
 ✅ **Databases:** MySQL, MongoDB <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&langs_count=10&theme=radical)
+<!-- Main -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact)
+
+<!-- Backup -->
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact)
+
 
 
 
