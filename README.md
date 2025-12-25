@@ -17,13 +17,7 @@ I’m a final-year Computer Science & Engineering student at Notre Dame Universi
 ✅ **Platforms:** Linux, Blockchain, Machine Learning <br>
 ✅ **Databases:** MySQL, MongoDB <br>
 
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&langs_count=13&theme=radical&hide=Makefile,RenderScript)
 
 
 ### ☕ Connect with me!
