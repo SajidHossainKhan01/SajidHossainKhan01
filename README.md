@@ -16,11 +16,13 @@
 
 I’m a **Full Stack Developer** and **CSE undergraduate** passionate about building scalable applications and solving real-world problems through clean and efficient code.
 
-- 🎓 **B.Sc in Computer Science & Engineering**
+- 🌍 Based in: **Dhaka, Bangladesh**
+- 🌱 Currently learning: **Advanced Backend Architectures & Cloud Computing**
 - 💻 Strong foundation in **DSA & Competitive Programming**
 - 🚀 Experienced with **Web, Android & Data-driven Applications**
 - 🏆 **Champion – Programming & Software Events**
-- 🌱 Currently exploring **AI-powered Web Apps**
+- 📫 Reach me at **sk6819152@gmail.com**  
+
 
 ---
 
