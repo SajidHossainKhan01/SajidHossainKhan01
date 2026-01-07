@@ -69,6 +69,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 
 > *Goal-driven, consistent, and focused on long-term growth rather than shortcuts.*
 
+<details>
 ## 🌐 Connect With Me
 
 <p>
@@ -79,7 +80,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
     <img src="https://img.icons8.com/ios-filled/30/domain.png"/>
   </a>
 </p>
-
+</details>
 ---
 
 ⭐ **“Build. Break. Learn. Repeat.”**
