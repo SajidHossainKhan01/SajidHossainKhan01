@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Hossain Khan</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | CSE Undergraduate</h3>
+<h3 align="center">Software Engineer | Competitive Programmer | Full Stack Developer  | Generative AI Practitioner</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SajidHossainKhano1&style=for-the-badge">
