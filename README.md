@@ -1,3 +1,5 @@
+![Sajid's Moto](https://raw.githubusercontent.com/SajidHossainKhan01/SajidHossainKhan01/master/moto.png)
+
 <h1 align="center">Hi 👋, I'm Sajid Hossain Khan</h1>
 <h3 align="center">Software Engineer | Competitive Programmer | Full Stack Developer  | Generative AI Practitioner</h3>
 
