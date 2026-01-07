@@ -145,7 +145,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajidHossainKhan01&theme=algolia" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SajidHossainKhan01&theme=algolia" />
 </p>
 
 <p align="center">
