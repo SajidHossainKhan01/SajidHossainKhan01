@@ -1,48 +1,122 @@
-## Hi, I'm Sajid 👋
-
-💻 Final-year CSE Student <br>
-💻 Programmer <br>
-🖊️ Love to write code <br> 
-🤖 Tech Enthusiast </p> 
-
-## 🚀 About Me
-
-I’m a final-year Computer Science & Engineering student at Notre Dame University Bangladesh with a strong passion for software development, problem-solving, and building real-world projects. I'm always exploring new technologies and sharpening my skills through competitive programming and hands-on experience.
-
-## 👨‍💻 Skills & Experiance: 
-✅ **Languages:** C, C++, Java, Python <br> 
-✅ **Web:** HTML, CSS, JavaScript <br>
-✅ **Mobile:** Android App Development (Java, Kotlin) <br>
-✅ **Tools:** Git, VS Code, Canva, Microsoft Excel, PowerPoint <br>
-✅ **Platforms:** Linux, Blockchain, Machine Learning <br>
-✅ **Databases:** MySQL, MongoDB <br>
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&langs_count=12&theme=radical&hide=Makefile,RenderScript)
--->
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SajidHossainKhan01&langs_count=14&theme=radical&hide=Makefile,RenderScript)
-
-<!--
-## 📊 GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/SajidHossainKhan01/SajidHossainKhan01/main/github-metrics.svg)
--->
-
-
-### ☕ Connect with me!
-
+<h1 align="center">Hi 👋, I'm Sajid Hossain Khan</h1>
+<h3 align="center">Full Stack Developer | Competitive Programmer | CSE Undergraduate</h3>
 
 <p align="center">
-  <a href="https://github.com/SajidHossainKhan01">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/github.png?raw=true" alt="GitHub" height="40"/>
+  <a href="https://komarev.com/ghpvc/?username=SajidHossainKhan&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=SajidHossainKhan&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/linkedin.png?raw=true" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/sajid.hossain.khan.2024">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/facebook.png?raw=true" alt="Facebook" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@SajidHossainKhan">
-    <img src="https://github.com/SajidHossainKhan01/SajidHossainKhan01/blob/main/img/youtube.png?raw=true" alt="YouTube" height="40"/>
+  <a href="https://github.com/SajidHossainKhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/SajidHossainKhan?logo=github&style=for-the-badge" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **Full Stack Developer** and **CSE undergraduate** passionate about building scalable applications and solving real-world problems through clean and efficient code.
+
+- 🎓 **B.Sc in Computer Science & Engineering**
+- 💻 Strong foundation in **DSA & Competitive Programming**
+- 🚀 Experienced with **Web, Android & Data-driven Applications**
+- 🏆 **Champion – Programming & Software Events**
+- 🌱 Currently exploring **AI-powered Web Apps**
+
+---
+
+## 🧰 Technical Arsenal
+
+### 🖥 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
+</p>
+
+### 🗄 Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,linux" />
+</p>
+
+### 🤖 AI & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🏅 Honors, Licenses & Certifications
+
+- 🥇 **Champion – Inter University Programming Contest**
+- 🥇 **Champion – Project Show 2024**
+- 🎓 **IOC – Axis Data Regional 2023**
+- 📜 **Google Data Analytics**
+- 📜 **Google AI & Machine Learning**
+- 📜 **Software Testing & Agile**
+
+> 📌 *More certificates available on my portfolio*
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Interactive Analytics Dashboard
+- Real-time data visualization
+- Dynamic charts & filters
+- Clean UI with responsive design
+
+### 🛒 E-Commerce QA Suite
+- Manual & automated test cases
+- Bug tracking & reporting
+- Agile testing workflow
+
+### 📚 MyLibrary (Android App)
+- Java & XML based Android app
+- CRUD functionality
+- Smooth Activity Navigation
+
+➡️ **Explore more on my repositories**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Competitive Programming
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/SajidHossainKhan?theme=dark&font=Baloo%202" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://sajidhossainkhan.github.io">
+    <img src="https://img.icons8.com/ios-filled/30/domain.png"/>
+  </a>
+</p>
+
+---
+
+⭐ **“Build. Break. Learn. Repeat.”**
