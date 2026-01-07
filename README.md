@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer | CSE Undergraduate</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SajidHossainKhan&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=SajidHossainKhan&style=for-the-badge" />
+  <a href="https://komarev.com/ghpvc/?username=SajidHossainKhano1&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=SajidHossainKhan01&style=for-the-badge" />
   </a>
-  <a href="https://github.com/SajidHossainKhan?tab=followers">
-    <img src="https://img.shields.io/github/followers/SajidHossainKhan?logo=github&style=for-the-badge" />
+  <a href="https://github.com/SajidHossainKhano1?tab=followers">
+    <img src="https://img.shields.io/github/followers/SajidHossainKhan01?logo=github&style=for-the-badge" />
   </a>
 </p>
 
