@@ -69,81 +69,94 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 
 > *Goal-driven, consistent, and focused on long-term growth rather than shortcuts.*
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
-  <a href="https://sajidhossainkhan.netlify.app/">
-    <img src="https://img.icons8.com/ios-filled/30/domain.png"/>
-  </a>
-</p>
+<details>
+  <summary><h2>🌐 Connect With Me</h2></summary>
 
-⭐ **“Build. Break. Learn. Repeat.”**
+  <p>
+    <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+    </a>
+    <a href="https://sajidhossainkhan.netlify.app/" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/30/domain.png"/>
+    </a>
+  </p>
 
----
-## 🧰 Technical Arsenal
+  ⭐ **“Build. Break. Learn. Repeat.”**
 
-### 🖥 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
-</p>
-
-### 🗄 Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,linux" />
-</p>
-
-### 🤖 AI & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+</details>
 
 ---
+<details>
+  <summary><h2>🧰 Technical Arsenal</h2></summary>
 
-## 🏅 Honors, Licenses & Certifications
+  ### 🖥 Frontend
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  </p>
 
-### 🏆 Honors & Achievements
-- 🥇 **Champion – Inter University Programming Contest**  
-- 🥇 **Champion – Project Show 2024**  
+  ### ⚙️ Backend
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
+  </p>
 
-### 🎓 Professional & Academic Certifications
-- 📜 **ICPC Asia Dhaka Regional 2023**  
-- 📊 **Google Data Analytics Professional Certificate**  
-- 🤖 **Google AI & Machine Learning**  
-- 🧠 **Introduction to Responsible AI**  
-- 🧪 **Software Testing & Quality Assurance**  
-- ⚙️ **Agile & Scrum Fundamentals**  
+  ### 🗄 Database & Tools
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,linux" />
+  </p>
 
-### 💻 Technical Skill Certifications
-- 🌐 **Frontend Development (HTML, CSS, JavaScript)**  
-- ⚛️ **React & Modern JavaScript**  
-- 🖥 **Backend Development Fundamentals**  
-- 🗄 **Database Management (SQL & NoSQL)**  
-- 🧩 **Problem Solving & Data Structures**  
+  ### 🤖 AI & Data
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" />
+  </p>
 
-📌 *More certificates available on my [Portfolio](https://sajidhossainkhan.netlify.app/)*
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<details>
+  <summary><h2>🏅 Honors, Licenses & Certifications</h2></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan01&show_icons=true&theme=tokyonight" />
-</p>
+  ### 🏆 Honors & Achievements
+  - 🥇 **Champion – Inter University Programming Contest**  
+  - 🥇 **Champion – Project Show 2024**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan01&theme=tokyonight" />
-</p>
+  ### 🎓 Professional & Academic Certifications
+  - 📜 **ICPC Asia Dhaka Regional 2023**  
+  - 📊 **Google Data Analytics Professional Certificate**  
+  - 🤖 **Google AI & Machine Learning**  
+  - 🧠 **Introduction to Responsible AI**  
+  - 🧪 **Software Testing & Quality Assurance**  
+  - ⚙️ **Agile & Scrum Fundamentals**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&theme=tokyonight" />
-</p>
+  ### 💻 Technical Skill Certifications
+  - 🌐 **Frontend Development (HTML, CSS, JavaScript)**  
+  - ⚛️ **React & Modern JavaScript**  
+  - 🖥 **Backend Development Fundamentals**  
+  - 🗄 **Database Management (SQL & NoSQL)**  
+  - 🧩 **Problem Solving & Data Structures**
+
+  📌 *More certificates available on my [Portfolio](https://sajidhossainkhan.netlify.app/)*
+
+</details>
+
+---
+
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan01&show_icons=true&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan01&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&theme=tokyonight" />
+  </p>
+
+</details>
 
 ---
 
