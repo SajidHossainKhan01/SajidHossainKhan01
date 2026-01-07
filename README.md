@@ -157,7 +157,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&langs_count=12&theme=radical&hide=Makefile,RenderScript)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&langs_count=20&theme=radical&hide=Makefile,RenderScript)
 </p>
 
 
