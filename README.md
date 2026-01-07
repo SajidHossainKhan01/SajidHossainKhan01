@@ -168,7 +168,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 ## 🧩 Competitive Programming
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/SajidHossainKhan?theme=dark&font=Baloo%202" />
+  <img src="https://leetcard.jacoblin.cool/sajid_hossain_khan?theme=dark&font=Baloo%202" />
 </p>
 
 ---
