@@ -75,7 +75,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
   <a href="https://www.linkedin.com/in/sajid-hossain-khan-7275272a4/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://sajidhossainkhan.github.io">
+  <a href="https://[sajidhossainkhan.github.io](https://sajidhossainkhan.netlify.app/)">
     <img src="https://img.icons8.com/ios-filled/30/domain.png"/>
   </a>
 </p>
