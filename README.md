@@ -110,14 +110,26 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 
 ## 🏅 Honors, Licenses & Certifications
 
-- 🥇 **Champion – Inter University Programming Contest**
-- 🥇 **Champion – Project Show 2024**
-- 🎓 **IOC – Axis Data Regional 2023**
-- 📜 **Google Data Analytics**
-- 📜 **Google AI & Machine Learning**
-- 📜 **Software Testing & Agile**
+### 🏆 Honors & Achievements
+- 🥇 **Champion – Inter University Programming Contest**  
+- 🥇 **Champion – Project Show 2024**  
 
-> 📌 *More certificates available on my [Portfolio]([YOUR_PORTFOLIO_LINK](https://sajidhossainkhan.netlify.app/))*
+### 🎓 Professional & Academic Certifications
+- 📜 **ICPC Asia Dhaka Regional 2023**  
+- 📊 **Google Data Analytics Professional Certificate**  
+- 🤖 **Google AI & Machine Learning**  
+- 🧠 **Introduction to Responsible AI**  
+- 🧪 **Software Testing & Quality Assurance**  
+- ⚙️ **Agile & Scrum Fundamentals**  
+
+### 💻 Technical Skill Certifications
+- 🌐 **Frontend Development (HTML, CSS, JavaScript)**  
+- ⚛️ **React & Modern JavaScript**  
+- 🖥 **Backend Development Fundamentals**  
+- 🗄 **Database Management (SQL & NoSQL)**  
+- 🧩 **Problem Solving & Data Structures**  
+
+📌 *More certificates available on my [Portfolio](https://sajidhossainkhan.netlify.app/)*
 
 ---
 
