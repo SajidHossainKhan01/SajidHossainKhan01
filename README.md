@@ -145,16 +145,21 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan01&show_icons=true&theme=tokyonight" />
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=SajidHossainKhan01&theme=algolia" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan01&theme=tokyonight" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan01&theme=tokyonight" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&theme=tokyonight" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan01&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&theme=tokyonight" />
+</p>
+
 
 </details>
 
@@ -167,3 +172,5 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 </p>
 
 ---
+
+⭐ **“Code, Learn, Repeat — Until It Feels Effortless.”**
