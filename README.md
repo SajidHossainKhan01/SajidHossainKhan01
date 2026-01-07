@@ -117,7 +117,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 - 📜 **Google AI & Machine Learning**
 - 📜 **Software Testing & Agile**
 
-> 📌 *More certificates available on my portfolio*
+> 📌 *More certificates available on my [Portfolio]([YOUR_PORTFOLIO_LINK](https://sajidhossainkhan.netlify.app/))*
 
 ---
 
