@@ -23,8 +23,51 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 - 🏆 **Champion – Programming & Software Events**
 - 📫 Reach me at **sk6819152@gmail.com**  
 
-
 ---
+
+## 🚀 Currently Building & Learning
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,java,python" /></a>
+</p>
+
+- 🔭 Currently building **full-stack web applications** with real-world use cases  
+- 📱 Developing and improving **Android applications** using **Java & XML**  
+- 🧠 Strengthening **Data Structures & Algorithms** through competitive programming  
+- 📊 Working on **data analytics & dashboard projects**  
+- 🤖 Exploring **AI integration** in web applications  
+- 🧪 Practicing **software testing & QA methodologies**  
+- ⚙️ Improving backend performance, database design & clean architecture  
+
+> Focused on writing **clean, scalable, and maintainable code** while continuously improving problem-solving skills.
+
+## 🎯 5-Year Goals
+
+- **2022–2023:**  
+  Built strong fundamentals in **C, C++, Java, Python**, and **Data Structures**  
+  Participated in **programming contests** and technical events ✅  
+
+- **2024:**  
+  Developed multiple **academic & personal projects**  
+  Became **Champion** in programming & project competitions  
+  Earned certifications in **Data Analytics, AI & Software Engineering** ✅  
+
+- **2025:**  
+  Secure an opportunity as a **Junior Software Engineer / Intern**  
+  Contribute to **real-world production systems**  
+  Strengthen expertise in **Full Stack Development & System Design** 🎯  
+
+- **2026:**  
+  Grow as a **Professional Software Engineer**  
+  Work on **large-scale applications** and collaborative codebases  
+  Become proficient in **cloud, backend optimization & advanced DSA**  
+
+- **2027 & Beyond:**  
+  Establish myself as a **high-impact software engineer**  
+  Mentor juniors, contribute to **open source**, and build products that solve meaningful problems  
+  Explore leadership or **startup opportunities** 🚀  
+
+> *Goal-driven, consistent, and focused on long-term growth rather than shortcuts.*
 
 ## 🧰 Technical Arsenal
 
