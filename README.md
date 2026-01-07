@@ -157,7 +157,7 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&langs_count=20&theme=radical&hide=Makefile,RenderScript")
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SajidHossainKhan01&langs_count=14&theme=radical&hide=Makefile,RenderScript"
 </p>
 
 
