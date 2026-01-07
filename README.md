@@ -124,12 +124,9 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
     *Represented NDUB as Team Residue (BUBT)*  
     *Top **214** teams out of **2,461** participants | **Honorable Mention***
   - 🤖 **AI for Bangla 3.0 (National Contest) – 2024**  
-    *Organized by Bangladesh Computer Council (BCC) & ICT Division | Theme: Generative AI* 
+    *Organized by Bangladesh Computer Council (BCC) & ICT Division | Theme: Generative AI*
+  - 🧑‍💻 **HackerRank Software Engineer Role Certification**
   - 📊 **Google Data Analytics Professional Certificate**  
-  - 🤖 **Google AI & Machine Learning**  
-  - 🧠 **Introduction to Responsible AI**  
-  - 🧪 **Software Testing & Quality Assurance**  
-  - ⚙️ **Agile & Scrum Fundamentals**
 
   ### 💻 Technical Skill Certifications
   - 🌐 **Frontend Development (HTML, CSS, JavaScript)**  
