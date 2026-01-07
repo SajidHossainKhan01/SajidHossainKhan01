@@ -121,39 +121,18 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Interactive Analytics Dashboard
-- Real-time data visualization
-- Dynamic charts & filters
-- Clean UI with responsive design
-
-### 🛒 E-Commerce QA Suite
-- Manual & automated test cases
-- Bug tracking & reporting
-- Agile testing workflow
-
-### 📚 MyLibrary (Android App)
-- Java & XML based Android app
-- CRUD functionality
-- Smooth Activity Navigation
-
-➡️ **Explore more on my repositories**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidHossainKhan01&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHossainKhan01&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHossainKhan01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
