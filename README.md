@@ -81,8 +81,6 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
     </a>
   </p>
 
-  ⭐ **“Build. Break. Learn. Repeat.”**
-
 </details>
 
 ---
@@ -119,9 +117,14 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
   ### 🏆 Honors & Achievements
   - 🥇 **Champion – Inter University Programming Contest**  
   - 🥇 **Champion – Project Show 2024**
+  - 💡 **8th Place – KYAU National Hackathon 2023**
 
   ### 🎓 Professional & Academic Certifications
-  - 📜 **ICPC Asia Dhaka Regional 2023**  
+  - 🧠 **ICPC Asia Dhaka Regional Contest – 2023**  
+    *Represented NDUB as Team Residue (BUBT)*  
+    *Top **214** teams out of **2,461** participants | **Honorable Mention***
+  - 🤖 **AI for Bangla 3.0 (National Contest) – 2024**  
+    *Organized by Bangladesh Computer Council (BCC) & ICT Division | Theme: Generative AI* 
   - 📊 **Google Data Analytics Professional Certificate**  
   - 🤖 **Google AI & Machine Learning**  
   - 🧠 **Introduction to Responsible AI**  
