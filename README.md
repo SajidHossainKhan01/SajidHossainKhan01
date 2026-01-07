@@ -64,8 +64,8 @@ I’m a **Full Stack Developer** and **CSE undergraduate** passionate about buil
 
 - **2027 & Beyond:**  
   Establish myself as a **high-impact software engineer**  
-  Mentor juniors, contribute to **open source**, and build products that solve meaningful problems  
-  Explore leadership or **startup opportunities** 🚀  
+  Mentor juniors, contribute to **open source**, and Join a top tech company as a **Software Engineer** (InshaAllah 🙌)  
+  Explore leadership or **startup opportunities** 🚀
 
 > *Goal-driven, consistent, and focused on long-term growth rather than shortcuts.*
 
